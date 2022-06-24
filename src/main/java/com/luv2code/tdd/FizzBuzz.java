@@ -7,6 +7,7 @@ public class FizzBuzz {
     // If number is divisible by 3 and 5, print FizzBuzz
     // If number is NOT divisible by 3 or 5, then print the number
 
+    //Xiang add this comment for cheking
     public static String compute(int i) {
 
         StringBuilder result = new StringBuilder();
