@@ -9,6 +9,9 @@ public class FizzBuzz {
 
     //Xiang add this comment for cheking
     //editing on feature branch
+    //2nd editing on feature branch to try squash merge in intelliJ
+    //3rd commit
+    //4th commit
     public static String compute(int i) {
 
         StringBuilder result = new StringBuilder();
