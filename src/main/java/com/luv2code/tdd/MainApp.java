@@ -15,6 +15,8 @@ public class MainApp {
 
             //Merge Conflict and Rebase practice
             System.out.println("Merge with Conflict");
+
+            //Add a Line on Master for branch to update
         }
     }
 
