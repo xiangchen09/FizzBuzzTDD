@@ -12,6 +12,9 @@ public class MainApp {
             //add another line of code with stash#2
             System.out.println("3");
             System.out.println("4");
+
+            //Add code in feature branch and try to rebase
+            System.out.println("Add Code on Branch");
         }
     }
 
