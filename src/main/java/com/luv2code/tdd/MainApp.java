@@ -12,6 +12,9 @@ public class MainApp {
             //add another line of code with stash#2
             System.out.println("3");
             System.out.println("4");
+
+            //Merge Conflict and Rebase practice
+            System.out.println("Merge with Conflict");
         }
     }
 
